@@ -18,7 +18,7 @@
 
 ## 🚀 Introduction
 
-An open-source [Turborepo remote cache](https://turborepo.dev/docs/core-concepts/remote-caching) server that you host yourself, **built first for [Cloudflare Workers](https://developers.cloudflare.com/workers/)**. Deploy it in one click, and every laptop and CI runner on your team shares build outputs through storage you own.
+An open-source [Turborepo remote cache](https://turborepo.dev/docs/core-concepts/remote-caching) server that you host yourself, **built first for [Cloudflare Workers](https://developers.cloudflare.com/workers/)**. Deploy it in one click, and every laptop and CI runner on your team shares build outputs through storage you own!
 
 📚 The [documentation](https://adirishi.github.io/turborepo-remote-cache-cloudflare) covers every storage option, platform, and setting.
 
